@@ -19,6 +19,10 @@ PREVIEW : https://youtu.be/eGIeBICHZTg
 * PLAYER PING , NAME , ID
 * HIGHLY OPTIMIZED 
 
+CUSTOM COLOUR [ADMIN , PRIORITY , PRINCE]
+
+ADD STEAM HEX ID IN SV_SCOREBOARD.LUA
+
 
 # INSTALLATION
 
@@ -40,6 +44,9 @@ go to qb-ambulancejob\client\dead.lua  and ADD THIS LINE
 
 
 EnableControlAction(0, 303, true)
+
+
+
 
 
 --- SEVEN DEVELOPMENT : JOIN US FOR PAID / FREE SCRIPTS --
